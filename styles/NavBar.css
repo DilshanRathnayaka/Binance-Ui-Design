@@ -1,0 +1,95 @@
+.NavBar{
+    display: flex;   
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.4rem 2rem ;
+    font-size: 0.9rem;
+    font-family: 'Inconsolata', monospace;
+    font-family: 'Lato', sans-serif;
+  
+}
+.NavBar .left{
+    display: flex;
+    
+}
+a:hover{
+    color: darkgoldenrod;
+}
+.fath{
+ font-size: 1.1rem;
+ padding-left: 1rem;    
+ color: black;    
+}
+
+.links{
+    padding: 1rem 2rem ;
+    
+}
+.buycripto{
+    color: black;
+    padding-left: 1rem; 
+    
+}
+.buycripto .USD{
+    background-color: yellow;
+    font-size: 0.8rem;
+    padding: 0.1rem;
+    border-radius: 0.3rem;
+}
+.Markets{
+    color: black;
+    padding-left: 1rem; 
+}
+.Trade{
+    color: black;
+    padding-left: 1rem; 
+}
+.Derivatives{
+    color: black;
+    padding-left: 1rem;
+}
+.Earn{
+    color: black;
+    padding-left: 1rem;
+}
+.Finance{
+    color: black;
+    padding-left: 1rem;
+}
+.NFT{
+    color: black;
+    padding-left: 1rem;
+}
+.NFT .NEW{
+    background-color: yellow;
+    font-size: 0.8rem;
+    padding: 0.1rem;
+    border-radius: 0.3rem;
+}
+.NavBar.right{
+    margin-left: 2rem;
+    margin-right:2rem ;
+}
+.login{
+    color: black;
+    padding-left: 2rem;
+    padding-right: 1rem;
+}
+.register{
+    color: black;
+    padding-left: 1rem;
+    background-color: gold;
+    font-size: 1rem;
+    padding: 0.1rem;
+    border-radius: 0.2rem;
+    padding :0.4rem 0.6rem 0.45rem ;
+    
+}
+.downloads{
+    color: black;
+    padding-left: 1rem;
+}
+.english{
+    color: black;
+    padding-left: 1rem;
+}

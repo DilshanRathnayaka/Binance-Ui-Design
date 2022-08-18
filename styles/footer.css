@@ -1,0 +1,22 @@
+.footer{
+    display: flex;
+    margin-left: 10rem;
+    justify-content: space-between;
+    margin-right: 10rem;
+    line-height: 2.15rem;
+    padding-bottom: 2rem;
+}
+.binance{
+    text-align: center;
+    border-top: 0.01px solid darkgrey;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.community{
+    font-size: 1.2rem;
+    justify-content: space-between;
+    padding-left: 2rem;
+    margin-left: 1rem;
+}
